@@ -1,25 +1,25 @@
 
 
-# GOODME Generator
+# README Generator
 
 
 # Table of contents:
 
-wnfleo
+Table of conten
 
 # Descriptions:
 
-using NPM and Node to generate GOODME
+Generate beautiful README markdown file
 
 
 ## Installation:
 
-NPM
+npm i
 
 
 ## Usage:
 
-Node.js
+Nodejs
 
 
 ## License:
@@ -29,17 +29,17 @@ Node.js
 
 ## Contributor:
 
-Me and my friend
+Lihuor Slot
 
 
 ## Test:
 
-test?
+test
 
 
 ## Questions:
 
-why do you want to know.
+How did we do that?
 
 
     
