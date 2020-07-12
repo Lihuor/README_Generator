@@ -1,5 +1,7 @@
 # Welcome to README Generator
 
+![README_Generator_Gif](./Material/README_Generator.gif "README_Generator")
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/lihuor/README_Generator)
 
 A well structured and beautiful README is very important, especially for opensource projects. This is the first thing that visitors will see when they discover your project.
