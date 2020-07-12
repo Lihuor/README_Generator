@@ -11,7 +11,7 @@ A well structured and beautiful README is very important, especially for opensou
 ## Usage:
 
 > Step one:
-> Run terminal from your file folder
+>> Run terminal from your file folder
 
 > Step two:
 >> Type *node index* in the terminal
@@ -29,7 +29,7 @@ A well structured and beautiful README is very important, especially for opensou
 
 Dillinger uses a number of open source projects to work properly:
 * [node.js] - evented I/O for the backend
- Github Page [Lihuor] (https://github.com/Lihuor).
+* Github Page [Lihuor] (https://github.com/Lihuor).
 
 # Link to the code:
 [README-GENERATOR](https://github.com/Lihuor/README_Generator "readme generator")
